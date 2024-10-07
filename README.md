@@ -2,7 +2,7 @@
 Author: Juan Fonseca, Gorilla Logic 2024.
 
 ## Description
-Demo to write xunit with spec style (as suggested by Zhimin Zhan) and implemented by Goenning et al [3].
+Demo to write xunit with spec style (as suggested by Zhimin Zhan), the Calculator example was taken from Goenning et al [3].
 
 # Creation [1, 2]
 ```
